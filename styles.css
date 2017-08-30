@@ -82,12 +82,10 @@ img {
 	li{
 		display: block;
 	}
-	test{
+	.mobhide{
 		display:none;
 	}	
-	.img-responsive{
-		display:none;
-	}
+	
 	.hide{
 		visibility: visible
     }
